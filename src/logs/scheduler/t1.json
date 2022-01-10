@@ -54,5 +54,9 @@
     "get_active_award": {
         "next": 1641800580,
         "local": "01/10/2022 00:43:00"
+    },
+    "auto_transport_rss": {
+        "next": 1641800583,
+        "local": "01/10/2022 00:43:03"
     }
 }
