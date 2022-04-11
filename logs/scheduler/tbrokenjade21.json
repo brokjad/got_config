@@ -78,5 +78,16 @@
     "upgrade_commanders": {
         "next": 1649640835,
         "local": "04/10/2022 19:33:55"
+    },
+    "daily_farms": {
+        "finished": [
+            "mine",
+            "lumb",
+            "mint",
+            "quar",
+            "grain"
+        ],
+        "next": 1649722392,
+        "local": "04/11/2022 18:13:12"
     }
 }
