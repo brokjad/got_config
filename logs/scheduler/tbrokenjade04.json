@@ -74,5 +74,9 @@
     "complete_all_trials": {
         "next": 1649722207,
         "local": "04/11/2022 18:10:07"
+    },
+    "upgrade_commanders": {
+        "next": 1649640446,
+        "local": "04/10/2022 19:27:26"
     }
 }
