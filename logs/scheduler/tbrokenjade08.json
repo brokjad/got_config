@@ -78,5 +78,10 @@
     "upgrade_commanders": {
         "next": 1649693318,
         "local": "04/11/2022 10:08:38"
+    },
+    "daily_farms": {
+        "finished": [],
+        "next": 1649694482,
+        "local": "04/11/2022 10:28:02"
     }
 }
