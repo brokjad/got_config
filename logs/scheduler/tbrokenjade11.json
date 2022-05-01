@@ -76,9 +76,12 @@
         "local": "04/30/2022 20:04:08"
     },
     "daily_farms": {
-        "finished": [],
-        "next": 1651009923,
-        "local": "04/26/2022 15:52:03"
+        "finished": [
+            "grain",
+            "mint"
+        ],
+        "next": 1651372911,
+        "local": "04/30/2022 20:41:51"
     },
     "balanced_farms": {
         "next": 1650799652,
